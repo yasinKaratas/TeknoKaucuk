@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\bin\Debug\QQ73841_EnginYasinKARATAS.exe.config
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\bin\Debug\QQ73841_EnginYasinKARATAS.exe
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\bin\Debug\QQ73841_EnginYasinKARATAS.pdb
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\obj\Debug\QQ73841_EnginYasinKARATAS.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\obj\Debug\QQ73841_EnginYasinKARATAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\obj\Debug\QQ73841_EnginYasinKARATAS.Properties.Resources.resources
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\obj\Debug\QQ73841_EnginYasinKARATAS.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\obj\Debug\QQ73841_EnginYasinKARATAS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\obj\Debug\QQ73841_EnginYasinKARATAS.exe
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\obj\Debug\QQ73841_EnginYasinKARATAS.pdb
+C:\Users\Dell\source\repos\QQ73841_EnginYasinKARATAS\QQ73841_EnginYasinKARATAS\obj\Debug\QQ73841_EnginYasinKARATAS.frmMain.resources
